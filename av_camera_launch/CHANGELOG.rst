@@ -2,8 +2,15 @@
 Changelog for package av_camera_launch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Jazzy migration
+* Contributors: Alejandro Bordallo
+
 4.0.0 (2026-03-11)
 ------------------
+* Zenoh migration
+* Contributors: Alejandro Bordallo
 
 3.0.0 (2025-08-05)
 ------------------
